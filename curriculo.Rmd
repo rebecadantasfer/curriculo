@@ -1,0 +1,67 @@
+---
+title: "Rebeca Dantas Fernandes"
+output: html_document
+---
+
+Cidade: Brasília
+
+Data de nascimento: 09/07/1999
+
+Contato: (61) 9 9662-3051 (Whatsapp)
+
+E-mail: rebecadantasfer@gmail.com
+
+LinkedIn: www.linkedin.com/in/rebecadantasf
+
+Lattes:http://lattes.cnpq.br/5854958245565205
+
+# Objetivo 
+Pesquisadora bolsista no Evidência Express (EvEx)- Enap 
+
+
+# Resumo das qualificações
+Mestranda e Bacharel em Ciência Política pela Universidade de Brasília (UnB); auxiliar de editorial na Revista Brasileira de Ciência Política (RPCP), com conhecimento intermediário em inglês e espanhol e nível básico em francês. Estágio em Pesquisa pelo Cebrap/UnB e voluntariado no Peru.
+
+# Formação acadêmica
+Mestrado em Ciência Política – Universidade de Brasília (UnB), cursando;
+Bacharel em Ciência Política – Universidade de Brasília (UnB), concluído em 2021.
+
+# Idiomas
+Inglês – Intermediário - Instituto Acadêmico de Línguas Estrangeiras – concluído – 544h.
+Espanhol – Intermediário – AIESEC/Peru – Intercâmbio Voluntário - Janeiro/2018 a Março/2018.
+Francês – Básico - Centro Interescolar de Línguas – concluído - 373h.
+
+# Histórico profissional
+**Cebrap/UnB Agosto/2020 a Novembro/2021- Estágio em Pesquisa**
+
+Coleta de dados em sites oficiais do governo e pedido de dados no portal e-Sic com base no 
+conhecimento em organização da administração pública federal;
+
+Análise e preenchimento de tabela de dados.
+
+**Escola do Cerrado Janeiro/2020 a Agosto/2022- Coordenadora Voluntária**
+
+Auxiliar as crianças na realização de atividades de reforço escolar;
+
+Mediar conflitos, comunicação entre pais e responsáveis e direção da escola.
+
+**Revista Brasileira de Ciência Política Junho/2022 até o momento- Auxiliar editorial**
+
+Buscar e manter contato com pareceristas;
+
+Manter contato com autores de artigos submetidos.
+
+
+# Experiência Internacional
+2018 – PERU – Intercâmbio voluntário através da organização AIESEC com o objetivo de aprimoramento dos idiomas espanhol e inglês, além de trocas culturais. Como educadora voluntária ensinava matemática básica, inglês e alfabetização para crianças de até 12 anos.
+
+# Outras informações
+Autista;
+
+Integrante do grupo de pesquisa Repensando as Relações entre Sociedade e Estado (Resocie);
+
+A pesquisa realizada no Cebrap/UnB foi mencionada no Jornal Nacional (https://cebrap.org.br/pesquisa-do-cebrap-sobre-desmonte-nos-comites-e-conselhos-nacionais-e-destaque-do-jornal-nacional/);
+
+Cursou a matéria de Métodos Quantitativos para Ciência POlítica do Programa de Pós Graduação de Ciência Política- IPol/UnB;
+
+Conhecimento básico em R.
